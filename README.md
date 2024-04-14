@@ -6,6 +6,8 @@ RM97798 - Ester Dutra da Silva (2TDSPV) - Responsável por COMPLIANCE, QUALITY A
 RM550981- Henrique Gerson Costa Correia (2TDSPV) - Mobile Application Development e ADVANCED BUSINESS DEVELOPMENT WITH .NET
 RM99985 - Felipe Batista Gregorio (2TDSPY) - Responsável por MASTERING RELATIONAL AND NON-RELATIONAL DATABASE e DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Descricao do problema a resolver
 
 Nosso projeto AGROCLIMATE visa solucionar a incerteza enfrentada pelos agricultores ao planejar suas safras, 
