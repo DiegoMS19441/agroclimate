@@ -21,8 +21,8 @@ public record CadastrarAgricultorDto(
         @NotBlank
         String email,
 
-        @NotNull
-        String endereco,
+        @NotBlank
+        String cep,
 
         @NotNull
         @Size(max = 9, min = 9)
