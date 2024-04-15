@@ -51,8 +51,8 @@ public class Agricultor {
             cpf = dto.cpf();
         if (dto.email() != null)
             email = dto.email();
-        if (dto.endereco() != null)
-            cep = dto.endereco();
+        if (dto.cep() != null)
+            cep = dto.cep();
         if (dto.telefone() != null)
             telefone = dto.telefone();
     }
