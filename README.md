@@ -35,4 +35,14 @@ Clima
 http://localhost:8080/climas/1
 http://localhost:8080/climas/2
 
+Safra
+http://localhost:8080/safras/1
+http://localhost:8080/safras/2
 
+Colheita
+http://localhost:8080/colheitas/1
+http://localhost:8080/colheitas/2
+
+Agricultor
+http://localhost:8080/agricultores/1
+http://localhost:8080/agricultores/3
