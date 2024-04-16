@@ -15,6 +15,7 @@ fornecendo uma ferramenta intuitiva e precisa para avaliar a viabilidade e o pot
 Ao coletar e analisar dados sobre clima, tipo de solo e outras variaveis relevantes, nossa aplicacao oferecera aos agricultores insights valiosos 
 sobre as condicoes ideais para o cultivo de diferentes culturas, permitindo-lhes tomar decisoes informadas e maximizar sua produtividade agricola.
 
+Link de acesso ao video Pitch do grupo:https://youtu.be/6v2YKiGwzTw
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Requests Criados
