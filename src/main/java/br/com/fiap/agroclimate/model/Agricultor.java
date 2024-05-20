@@ -38,7 +38,7 @@ public class Agricultor {
         nome = agricultorDto.nome();
         cpf = agricultorDto.cpf();
         email = agricultorDto.email();
-        cep = agricultorDto.endereco();
+        cep = agricultorDto.cep();
         telefone = agricultorDto.telefone();
     }
 
